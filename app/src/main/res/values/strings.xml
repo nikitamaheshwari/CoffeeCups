@@ -1,0 +1,24 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+
+    <string name="app_name">Coffee Cups</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+
+    <!--text header to choose toppings[CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped Cream: </string>
+    <string name="chocolate_cream">Chocolate_cream:</string>
+    <string name="quantity">Quantity </string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="quantity_value">1</string>
+    <string name="order">Order</string>
+    <string name="ordersummaryname">Name:</string>
+    <string name="thanku">Thank You!!</string>
+    <string name="total_rs">Total Rs:</string>
+    <string name="addChocolate">Add Chocolate ? </string>
+    <string name="addWhipped">Add Chocolate ? </string>
+
+</resources>
